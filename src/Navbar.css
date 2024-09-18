@@ -1,0 +1,9 @@
+.Navbar {
+    position: relative;
+    background-color: #a5943f;
+}
+
+a {
+    text-decoration: none;
+    color: #310ebc;
+  }
